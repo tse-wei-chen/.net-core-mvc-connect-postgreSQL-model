@@ -2,10 +2,10 @@
 
 * * *
 #### 連接所需驗證:
-Host=Hostname;  Localhost / 主機名稱
-Username=postgres;  預設postgres / 層級人員
-Password=PasswordName;  密碼
-Database=DatabaseName;  資料庫名稱
+Host=Hostname;  Localhost / 主機名稱  
+Username=postgres;  預設postgres / 層級人員  
+Password=PasswordName;  密碼  
+Database=DatabaseName;  資料庫名稱  
 
 #### 連線:
 ConnNpgModel.ConnectToDB
