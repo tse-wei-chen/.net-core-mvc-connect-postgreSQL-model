@@ -5,7 +5,7 @@ namespace test.Models
 {
     public class ConnNpgModel
     {
-        string cs = "Host=localhost;Username=postgres;Password=root8888;Database=restaurant";
+        string cs = "Host=Hostname;Username=postgres;Password=PasswordName;Database=DatabaseName";
         NpgsqlConnection con;
 
         public ConnNpgModel()
