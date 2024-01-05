@@ -13,7 +13,7 @@ ConnNpgModel.ConnectToDB
 #### 關閉連線:
 ConnNpgModel.CloseConnection
 
-
+#### code:
 ```
 ﻿using Npgsql;
 using System.Data;
